@@ -1,0 +1,16 @@
+{
+  "name": "ecommerce-node-api",
+  "version": "1.0.0",
+  "description": "Project focused on practicing software development, with an emphasis on applying the Object-Oriented Programming (OOP) paradigm and its main concepts. It covers the development of web applications and APIs, database integration, and the use of automated tests. Everything is built following architecture and design principles and patterns, as well as best development practices. The project uses Node.js as the runtime environment and TypeScript as the programming language.",
+  "main": "index.js",
+  "scripts": {
+    "dev": ""
+  },
+  "author": "Robson Messias",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.10.7",
+    "sucrase": "^3.35.0",
+    "typescript": "^5.7.3"
+  }
+}

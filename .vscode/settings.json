@@ -1,0 +1,7 @@
+{
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.executorMap": {
+        "javascript": "node",
+        "typescript": "npx sucrase ./src --transforms typescript --out-dir ./dist && node ./dist/index.js",
+    }
+}
